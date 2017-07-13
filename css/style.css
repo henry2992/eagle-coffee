@@ -1,0 +1,182 @@
+/* WebPage Content */
+
+.content {
+  padding: 50px 0;
+}
+
+/* Heading Section */
+
+.heading {
+  text-align: center;
+}
+
+.heading-container {
+  border-bottom: solid 2px black;
+  margin: 10px 20px ;
+  padding-bottom: 15px;
+}
+
+.heading-container h1 {
+  font-size: 25px;
+  text-align: center;
+  margin: 0;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+.heading .logo img {
+	width: 125px;
+}
+
+.heading .logo-text {
+  text-transform: uppercase;
+}
+
+
+/* Suscription Section */
+
+.suscription {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.suscription-section {
+  margin: 10px 20px;
+  letter-spacing: 1px;
+}
+
+.suscription-section h1 {
+  font-weight: bold;
+  font-size: 35px;
+  margin: 0px;
+  line-height: 35px;
+}
+
+
+.suscription-section h1:first-child {
+  margin-left: -5px;
+}
+
+.suscription-section h4 {
+  margin-top: 20px; 
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+.suscription-section form input.email {
+  width: 100%;
+  border: 1px solid #000;
+  padding: 0px 10px;
+  font-size: 11px;
+  height: 25px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.suscription-section form input.subscribe {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+  margin: 10px 0px;
+  padding: 3px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-size: 12px
+}
+
+
+.suscription-section form input.email::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #000;
+  opacity: 1;
+}
+.suscription-section form input.email::-moz-placeholder { /* Firefox 19+ */
+  color: #000;
+  opacity: 1;
+}
+.suscription-section form input.email:-ms-input-placeholder { /* IE 10+ */
+  color: #000;
+  opacity: 1;
+}
+.suscription-section form input.email:-moz-placeholder { /* Firefox 18- */
+  color: #000;
+  opacity: 1;
+}
+
+/* Footer Section */
+
+.footer .motto {
+  text-align: center;
+  margin: 10px 0 25px;
+}
+
+.footer .motto img {
+  width: 60px;
+}
+
+.footer .motto p {
+  margin: 0px;
+  line-height: 15px;
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
+.footer .motto p.dream{
+  font-weight: bold;
+  font-style: italic;
+}
+
+
+.footer .social-networks {
+  text-align: center;
+}
+
+.footer .social-networks i {
+  font-size: 20px;
+  border: 1px solid #000;
+  border-radius: 50%;
+  padding: 8px;
+  width: 38px;
+  margin: 0 10px;
+}
+
+.footer .copyright{
+  text-align: center;
+  margin: 25px 0 15px;
+}
+
+.footer .copyright p {
+  margin: 0px;
+  line-height: 15px;
+  font-size: 9px;
+  letter-spacing: 1px;
+  line-height: 9px
+}
+
+.footer .info {
+  text-align: center;
+}
+
+.footer .info p {
+  font-size: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
